@@ -1,0 +1,24 @@
+.admin-layout {
+
+}
+.admin-layout .left-menu {
+  height: 100vh
+}
+.admin-layout .brand-wrapper {
+  padding: 10px;
+  height: 60px;
+  border-bottom: 1px solid #dfdfdf;
+}
+.admin-layout .brand-wrapper .brand {
+      color: #000c17;
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 15px;
+}
+
+.admin-layout .top-header {
+  padding: 10px;
+  height: 60px;
+    border-bottom: 1px solid #dfdfdf;
+    border-left: 1px solid #dfdfdf;
+}

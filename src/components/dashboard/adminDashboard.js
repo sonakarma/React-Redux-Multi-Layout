@@ -1,14 +1,13 @@
 import React from 'react';
 
 class AdminDashboard extends React.Component {
+
 	render() {
 	    return (
-	      <div className="auth-page">
-	        I am admin dashboard
-	      </div>
+       	<div>dash board</div>
 	    );
-  }
+  	}
 }
 
 
-export default AdminDashboard
+export default AdminDashboard;
